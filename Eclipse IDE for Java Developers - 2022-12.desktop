@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Eclipse IDE for Java Developers - 2022-12
+StartupWMClass=Eclipse
+Exec=/home/knoldus/eclipse/java-2022-12/eclipse/eclipse
+Categories=Development;IDE;
+Icon=/home/knoldus/eclipse/java-2022-12/eclipse/icon.xpm
